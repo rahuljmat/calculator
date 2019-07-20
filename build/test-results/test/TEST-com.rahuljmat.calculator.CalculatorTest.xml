@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.rahuljmat.calculator.CalculatorTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-07-20T06:26:55" hostname="rahul" time="0.107">
+  <properties/>
+  <testcase name="testSum" classname="com.rahuljmat.calculator.CalculatorTest" time="0.107"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
